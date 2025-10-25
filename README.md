@@ -1,3 +1,3 @@
 # second-demo
-My Second Repo \n
-iam shraddha
+My Second Repo 
+\n iam shraddha
